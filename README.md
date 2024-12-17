@@ -63,5 +63,11 @@ Since I have the space on the board and an extra button, the players quantity in
 
 ![Circuit Diagram](System_diagram_02.jpg)'
 
+I initially set out to explore the intricate dynamics between individuals — how emotions fluctuate, conflicts arise, and harmony can be achieved. It’s a concept I’m still passionate about and plan to revisit in the future. I’d love to create something that uses Arduino to stimulate conversations or situations that mirror these dynamics, pushing people toward understanding and balance.
+
+But over the past six months, I’ve gone through a period of emotional instability, where countless emotions would rush through my mind in short spans of time. It was a tough time, but my friends have been an incredible source of support. With the holiday season approaching and everyone feeling a little worn out, I want to focus on something simpler yet meaningful—a game that can bring a smile to their faces and let them enjoy a brief moment of fun together.
+
+
+
 
 
