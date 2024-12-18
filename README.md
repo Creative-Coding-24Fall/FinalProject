@@ -61,7 +61,7 @@ Since I have the space on the board and an extra button, the players quantity in
 
 ![Circuit Diagram](FinalProject_Circuit_Finalfinal.jpg)
 
-![Circuit Diagram](System_diagram_02.jpg)'
+![System Diagram](System_diagram_02.jpg)'
 
 I initially set out to explore the intricate dynamics between individuals — how emotions fluctuate, conflicts arise, and harmony can be achieved. It’s a concept I’m still passionate about and plan to revisit in the future. I’d love to create something that uses Arduino to stimulate conversations or situations that mirror these dynamics, pushing people toward understanding and balance.
 
@@ -69,5 +69,41 @@ But over the past six months, I’ve gone through a period of emotional instabil
 
 
 
+04 | Final wrap up
 
+Introduction:
+I created a fun, competitive/cooperative game where three players count moving kaomoji on the screen. Each player is assigned a specific type of Kaomoji, positive expression, negative expression or neutral, and they use buttons to register the number they’ve counted. Players can either compete to see who counts more accurately or work together to ensure both counts are correct. It all depend on what the players consider a "win". I might be a little evil here but it might be fun to see what is people's standard to winning.
 
+The game uses two buttons on a breadboard as controllers for the players. Arduino’s role is sending button signals to p5.js, while most of the game logic and visuals are handled in p5.js. This setup ensures the project balances physical and digital components.
+
+The program has three main part. 
+     
+      1. Start page
+      2. Gaming Page
+      3. Resualt Page
+	   
+
+Diagrams:
+![Circuit Diagram](FinalProject_Circuit_Finalfinal.jpg)
+
+![System Diagram](System_diagram_02.jpg)'
+
+I do not know how to do FSM since there is no status change on the arduino side.
+
+What does the game means to me:
+I initially set out to explore the intricate dynamics between individuals — how emotions fluctuate, conflicts arise, and harmony can be achieved. It’s a concept I’m still passionate about and plan to revisit in the future. I’d love to create something that uses Arduino to stimulate conversations or situations that mirror these dynamics, pushing people toward understanding and balance.
+
+But over the past six months, I’ve gone through a period of emotional instability, where countless emotions would rush through my mind in short spans of time. It was a tough time, but my friends have been an incredible source of support. With the holiday season approaching and everyone feeling a little worn out, I want to focus on something simpler yet meaningful—a game that can bring a smile to their faces and let them enjoy a brief moment of fun together.
+
+I also love the aesthetic of Kaomoji. I've been using them since a very young age. I love how they use keyboard characters to express feelings. I would argue that it is a type of digital art.
+
+Feedbacks:
+1. The rules could be a little hard to understand. 
+2. Not familiar with kaomoji so it could be hard fpr the players to identity different exppressions.
+3. Pretty fun game!!
+4. The shakey part in the start page is cute.
+
+Vision:
+1. Adding a rule page. Or a help button on the right corner, showing a pop-up explaining the rules.
+2. Adding more funelements to the game. Maybe background of a texting page or other colorful buttons.
+3. Add some cute sound effect. 
